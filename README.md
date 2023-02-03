@@ -7,7 +7,7 @@ I worked a lot of 80-hour weeks (at just about every tech company in Minnesota),
 Now I code exclusively for fun.<br>
 <hr>
 
-Fluent in maybe 20 languages, but could "get by" in about 42.
+Fluent in maybe 20 languages, but know enough to "get by" in about 42.
 <hr>
 
 Wrote hundreds of games in the 1980s. These seemed to be the most popular:
