@@ -1,5 +1,5 @@
 # README.md
-<font size=+5><bold>Wait... you're THAT Hack-Man?</bold></font>
+<font size=+5><bold><font color="red">Wait... you're THAT Hack-Man?</font></bold></font>
 <hr>
 
 I hack cuspy C code, preferably on UNIX boxes.<br>
